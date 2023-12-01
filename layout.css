@@ -1,0 +1,10 @@
+.col-4{
+    width: calc(100%/12*4);
+
+}
+.row{
+    display: flex;
+    margin-left: -15px;
+    margin-right: -15px;
+
+}
